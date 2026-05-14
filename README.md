@@ -4,9 +4,7 @@
 
 # 💫 About Me:
 Currently specializing in Game Art at Haute Ecole Albert Jacquard (Namur, Belgium), I am passionate about the visual storytelling of video games. My interest spans from prop and environment design to lighting and visual experimentation. I love exploring diverse artistic directions, ranging from modern and stylized aesthetics to realistic environments. I am always looking for new ways to push visual boundaries and create immersive player experiences.
-Main Interests: Prop Art, Environment Design, Lighting, Art Direction.
-
-Portfolio : https://www.artstation.com/taninoventura.<br>
+Main Interests: Prop Art, Environment Design, Lighting, Art Direction.<br>
 
 ![](https://komarev.com/ghpvc/?username=justcynass&color=447ff7&label=Visitor+count)
 
