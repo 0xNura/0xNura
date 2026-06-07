@@ -55,8 +55,3 @@
 <!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=justcynass&theme=react&hide_border=false)<br/>
  -->
 [![BlackSnufkin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=justcynass&theme=redical&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/justcynass/github-readme-activity-graph)
-
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=justcynass&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=f85149&fire=f85149&currStreakLabel=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9" />
-
