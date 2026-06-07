@@ -9,7 +9,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <img align="right" alt="coding" width="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcynass&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcynass&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> 
+</p>
 
 - 🔭 I’m currently Working on **COMING SOON**
 
@@ -45,7 +46,7 @@
 <p align="left">
 <a href="https://discordapp.com/users/1369613712901537865"><img width="80px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>&emsp;
 <a href="https://twitter.com/CynassCreations"><img width="80px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>&emsp;
-<a href="[https://github.com/JustCynass"><img width="80px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
+<a href="https://github.com/JustCynass"><img width="80px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>&emsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
