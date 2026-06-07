@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanino aka Cynass</h1>
+<h1 align="center">Hi 👋, I'm Tanino a.k.a. Cynass</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
