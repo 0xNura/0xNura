@@ -20,7 +20,7 @@
 
 - 📝 I regularly write Articles on : [Hashnode](https://www.google.com/)
 
-- 📫 Reach me through Email : **COMINGSOON@gmail.com**
+- 📫 Reach me through Email : **contact.tanino@proton.me**
 
 - 📄 Know about my Experience : [Click Here](https://www.google.com/)
 
