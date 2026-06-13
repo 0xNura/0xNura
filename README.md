@@ -46,13 +46,13 @@
 <p align="left">
 <a href="https://discordapp.com/users/1369613712901537865"><img width="80px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>&emsp;
 <a href="https://twitter.com/CynassCreations"><img width="80px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>&emsp;
-<a href="https://github.com/JustCynass/JustCynass/issues/new"><img width="80px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>&emsp;
+<a href="https://github.com/0xNura/0xNura/issues/new"><img width="80px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>&emsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics:
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=justcynass&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=f85149&fire=f85149&currStreakLabel=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9" /><br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xNura&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=f85149&fire=f85149&currStreakLabel=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9" /><br/>
 <!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=justcynass&theme=react&hide_border=false)<br/>
  -->
-[![BlackSnufkin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=justcynass&theme=redical&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/justcynass/github-readme-activity-graph)
+[![BlackSnufkin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xNura&theme=redical&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/0xNura/github-readme-activity-graph)
