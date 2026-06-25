@@ -44,8 +44,8 @@
 *Open an issue or reach out directly - always happy to discuss Security sutff*
 
 <p align="left">
-<a href="https://discordapp.com/users/1369613712901537865"><img width="80px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>&emsp;
-<a href="https://twitter.com/CynassCreations"><img width="80px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>&emsp;
+<a href="https://discordapp.com/users/"><img width="80px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>&emsp;
+<a href="https://twitter.com/"><img width="80px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>&emsp;
 <a href="https://github.com/0xNura/0xNura/issues/new"><img width="80px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>&emsp;
 </p>
 
